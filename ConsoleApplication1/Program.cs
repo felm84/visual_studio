@@ -10,6 +10,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            int age = 33;
+            Console.WriteLine("Felipe is {0} years old", age);
+            Console.ReadLine();
         }
     }
 }
